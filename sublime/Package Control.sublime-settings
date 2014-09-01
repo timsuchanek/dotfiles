@@ -1,0 +1,20 @@
+{
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Better CoffeeScript",
+		"EditorConfig",
+		"Emmet",
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"Jade",
+		"LaTeXTools",
+		"LESS",
+		"Rust",
+		"SFTP",
+		"Stylus",
+		"SublimeSBT",
+		"Theme - Spacegray",
+		"TOML"
+	]
+}
